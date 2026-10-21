@@ -1,0 +1,21 @@
+<Project>
+  <PropertyGroup>
+    <PtclLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</PtclLibRoot>
+    <PhiveLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</PhiveLibRoot>
+    <HkxLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</HkxLibRoot>
+    <HkxSimLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</HkxSimLibRoot>
+    <HkxHbLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</HkxHbLibRoot>
+    <SarcLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</SarcLibRoot>
+    <AampLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</AampLibRoot>
+    <BancLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</BancLibRoot>
+    <BymlLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</BymlLibRoot>
+    <MsbtLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</MsbtLibRoot>
+    <RstbLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</RstbLibRoot>
+    <XLinkLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</XLinkLibRoot>
+    <UMiiLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</UMiiLibRoot>
+    <TotkCaveLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</TotkCaveLibRoot>
+    <WrsLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</WrsLibRoot>
+    <BntxLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</BntxLibRoot>
+    <TxtgLibRoot>$(MSBuildThisFileDirectory.TrimEnd('\'))</TxtgLibRoot>
+  </PropertyGroup>
+</Project>
