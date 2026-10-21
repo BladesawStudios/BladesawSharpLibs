@@ -1,0 +1,93 @@
+[submodule "AampSharp"]
+	path = AampSharp
+	url = https://github.com/BladesawStudios/AampSharp.git
+[submodule "BFontSharp"]
+	path = BFontSharp
+	url = https://github.com/BladesawStudios/BFontSharp.git
+[submodule "BancSharp"]
+	path = BancSharp
+	url = https://github.com/BladesawStudios/BancSharp.git
+[submodule "BecoSharp"]
+	path = BecoSharp
+	url = https://github.com/BladesawStudios/BecoSharp.git
+[submodule "BfAudioSharp"]
+	path = BfAudioSharp
+	url = https://github.com/BladesawStudios/BfAudioSharp.git
+[submodule "BfresLibrary"]
+	path = BfresLibrary
+	url = https://github.com/BladesawStudios/BfresLibrary.git
+[submodule "BlytSharp"]
+	path = BlytSharp
+	url = https://github.com/BladesawStudios/BlytSharp.git
+[submodule "BntxSharp"]
+	path = BntxSharp
+	url = https://github.com/BladesawStudios/BntxSharp.git
+[submodule "BymlSharp"]
+	path = BymlSharp
+	url = https://github.com/BladesawStudios/BymlSharp.git
+[submodule "HexpatSharp"]
+	path = HexpatSharp
+	url = https://github.com/BladesawStudios/HexpatSharp.git
+[submodule "HkxHbSharp"]
+	path = HkxHbSharp
+	url = https://github.com/BladesawStudios/HkxHbSharp.git
+[submodule "HkxSharp"]
+	path = HkxSharp
+	url = https://github.com/BladesawStudios/HkxSharp.git
+[submodule "HkxSimSharp"]
+	path = HkxSimSharp
+	url = https://github.com/BladesawStudios/HkxSimSharp.git
+[submodule "McSharp"]
+	path = McSharp
+	url = https://github.com/BladesawStudios/McSharp.git
+[submodule "MsbtSharp"]
+	path = MsbtSharp
+	url = https://github.com/BladesawStudios/MsbtSharp.git
+[submodule "PhiveSharp"]
+	path = PhiveSharp
+	url = https://github.com/BladesawStudios/PhiveSharp.git
+[submodule "PtclSharp"]
+	path = PtclSharp
+	url = https://github.com/BladesawStudios/PtclSharp.git
+[submodule "RstbSharp"]
+	path = RstbSharp
+	url = https://github.com/BladesawStudios/RstbSharp.git
+[submodule "SarcSharp"]
+	path = SarcSharp
+	url = https://github.com/BladesawStudios/SarcSharp.git
+[submodule "ShaderLibrary"]
+	path = ShaderLibrary
+	url = https://github.com/BladesawStudios/ShaderLibrary.git
+[submodule "TexSharp"]
+	path = TexSharp
+	url = https://github.com/BladesawStudios/TexSharp.git
+[submodule "TrinitySharp"]
+	path = TrinitySharp
+	url = https://github.com/BladesawStudios/TrinitySharp.git
+[submodule "TscbSharp"]
+	path = TscbSharp
+	url = https://github.com/BladesawStudios/TscbSharp.git
+[submodule "TxtgSharp"]
+	path = TxtgSharp
+	url = https://github.com/BladesawStudios/TxtgSharp.git
+[submodule "UMiiSharp"]
+	path = UMiiSharp
+	url = https://github.com/BladesawStudios/UMiiSharp.git
+[submodule "WildRenderingSharp"]
+	path = WildRenderingSharp
+	url = https://github.com/BladesawStudios/WildRenderingSharp.git
+[submodule "WwiseSharp"]
+	path = WwiseSharp
+	url = https://github.com/BladesawStudios/WwiseSharp.git
+[submodule "XLinkSharp"]
+	path = XLinkSharp
+	url = https://github.com/BladesawStudios/XLinkSharp.git
+[submodule "Yaz0Sharp"]
+	path = Yaz0Sharp
+	url = https://github.com/BladesawStudios/Yaz0Sharp.git
+[submodule "ZsDicSharp"]
+	path = ZsDicSharp
+	url = https://github.com/BladesawStudios/ZsDicSharp.git
+[submodule "ZstdSharp"]
+	path = ZstdSharp
+	url = https://github.com/BladesawStudios/ZstdSharp.git
